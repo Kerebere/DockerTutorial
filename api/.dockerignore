@@ -1,0 +1,3 @@
+node_modules
+
+# Докеригнор - в случае если мы запускаем nmp install в консоли и создаем папку node_modules.
